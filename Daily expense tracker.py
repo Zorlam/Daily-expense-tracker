@@ -1,6 +1,6 @@
 print("Welcome to the Daily Expense Tracker!")
 
-# Display menu once
+# No while loop, Display menu once
 print("\nMenu:")
 print("1. Add a new expense")
 print("2. View all expenses")
